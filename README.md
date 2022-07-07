@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tontonialberto&label=Profile%20views&color=0e75b6&style=flat" alt="tontonialberto" /> </p>
 
-- 🌱 I’m currently learning **bare metal embedded programming in C and C++**
-
 - 📫 How to reach me **tontonialberto@outlook.it**
 
 <h3 align="left">Languages and Tools:</h3>
